@@ -1,0 +1,4 @@
+name = "BenchmarkGallery"
+uuid = "4929686e-59ae-4232-a6a9-4f09a9d79fc4"
+authors = ["Steffen Plunder <steffen.plunder@web.de>"]
+version = "0.1.0"
