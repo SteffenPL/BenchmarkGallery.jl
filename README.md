@@ -9,4 +9,6 @@ The aim is not to prove that X.jl is faster than package Y.jl, but rather
 to focus on elementary Julia constructions.
 
 **Since all of this is new, the structur of how benchmarks are stored and presented
-will change in the future.**
+will change in the future.
+
+As of now, I'm collecting ideas and feedback about how to produces shareable representative benchmarks.**
